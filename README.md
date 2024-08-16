@@ -4,8 +4,10 @@
 - Correo: lveyna2005@gmail.com
 
 # Actividad 1
-- Programa 1
-- Programa 2 
+- p01_HolaMundo.java
+- p02_AreaCirculo.java
+- p03_AreaTriangulo.java
+- p04_PagaTrabajador.java
 
 # Actividad 2
 - Programa 3
