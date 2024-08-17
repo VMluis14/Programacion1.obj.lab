@@ -10,5 +10,8 @@
 - p04_PagaTrabajador.java
 
 # Actividad 2
-- Programa 3
-- Programa 4
+- p05_OperacionesMatematicas.java
+- p06_PromedioCalificaciones.java
+- p07_OperadoresAsignacion.java
+- p08_FuncionesTrigonometricas.java
+- p09_DividirEnCifras.java
