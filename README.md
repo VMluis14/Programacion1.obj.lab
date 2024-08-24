@@ -31,3 +31,10 @@
 - p19_TrabajandoCaracteres.java
 - p20_ConversionTipos.java
  
+ # Actividad 5
+- p25_EstacionesAño.java
+- p26_TipoAngulo.java
+- p27_AceptarEstudiante.java
+- p28_LeyDeNewton.java
+ 
+
