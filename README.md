@@ -31,10 +31,14 @@
 - p19_TrabajandoCaracteres.java
 - p20_ConversionTipos.java
  
- # Actividad 5
+# Actividad 5
 - p25_EstacionesAño.java
 - p26_TipoAngulo.java
 - p27_AceptarEstudiante.java
 - p28_LeyDeNewton.java
  
-
+# Actividad 6
+- p29_Calculadora.java
+- p30_DiaSemana.java
+- p31_NumerosRomanos.java
+- p32_PagoEstacionamiento.java
