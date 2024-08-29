@@ -42,3 +42,18 @@
 - p30_DiaSemana.java
 - p31_NumerosRomanos.java
 - p32_PagoEstacionamiento.java
+
+# Practica 2
+- p33_NumerosConsecutivos.java
+- p34_NumeroMayor.java
+- p35_ContinentesMundo.java
+- p36_CompraPizza.java
+- p37_CalculoNotas.java
+- p38_AceptarEstudianteV2.java
+
+# Actividad 7
+- p39_Numeros1a100.java
+- p40_Numeros100a1.java
+- p41_ProcesaCalificaciones.java
+- p42_TablaMultiplicar.java
+- p43_ConteoNumeros.java

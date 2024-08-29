@@ -3,7 +3,7 @@
 // Calcula fuerza, masa, y aceleración de acuerdo a la segunda ley de newton
 import java.util.Scanner;
 
- public class _p28_LeyDeNewton {
+ public class p28_LeyDeNewton {
  public static void main(String[] args) {
  float f, m, a;
  char op;
