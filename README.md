@@ -57,3 +57,9 @@
 - p41_ProcesaCalificaciones.java
 - p42_TablaMultiplicar.java
 - p43_ConteoNumeros.java
+
+# Actividad 8 
+- p44_ParesAscendente.java
+- p45_ImparesDescendente.java
+- p46_TablaConversion.java
+- p47_ConjeturaCollatz.java
