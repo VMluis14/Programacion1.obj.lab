@@ -69,3 +69,10 @@
 - p49_ParesDescendente.java  
 - p50_ConversionTemperaturas.java
 - p51_SerieFibonaci.java
+
+# Actividad 10
+- p57_TablasMultiplicar.java
+- p58_Piramide.java
+- p59_FactorialNumeros.java
+- p60_SumaTerminos.java
+
