@@ -76,3 +76,6 @@
 - p59_FactorialNumeros.java
 - p60_SumaTerminos.java
 
+# Practica 5
+- p65_SistemaPapeleria.java
+
