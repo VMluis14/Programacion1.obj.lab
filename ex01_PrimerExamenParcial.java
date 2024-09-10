@@ -25,6 +25,7 @@ public class ex01_PrimerExamenParcial {
     private static final int EDAD_MINIMA = 23;
     
     public static void main(String[] args) {
+        
         Scanner obj = new Scanner(System.in);
         ArrayList<Participante> participantes = new ArrayList<>();
         int totalAlumnos = 0, totalDocentes = 0, totalTrabajadores = 0;
@@ -33,13 +34,12 @@ public class ex01_PrimerExamenParcial {
         double totalRecaudadoGeneral = 0.0;
         int totalParticipantes = 0;
         double edadTotal = 0.0;
-
-        while (true) {
+        String pregunta = "";
+        do {
+            
             System.out.println("Nombre del participante");
             String nombre = obj.nextLine();
-            if (nombre.equalsIgnoreCase("salir")) {
-                break;
-            }
+            obj.nextLine();
 
             System.out.println("La edad del participante:");
             int edad = obj.nextInt();
@@ -100,8 +100,12 @@ public class ex01_PrimerExamenParcial {
             System.out.println("Costo de inscripción: $" + costo);
 
             
+            System.out.print("Otra participante (S/N) ? ");
+            pregunta = obj.next().toUpperCase();
+            
+        } while (pregunta.equals("S"));
 
-        }
+        
 
 
         System.out.println("\nResumen de la inscripción:");
