@@ -95,3 +95,9 @@
 - p73_SumaParesImpares.java
 - p74_Factorial.java
 - p75_CuadroCaracter.java
+
+# Actividad 14
+- p86_ArregloMostrar.java
+- p87_ArregloTemperaturas.java
+- p88_Aleatorios.java
+- p89_ArregloAleatorios.java
