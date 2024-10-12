@@ -107,3 +107,10 @@
 - p95_Empleado02
 - p96_Empleado03
 - p97_Empleado04
+
+# Actividad 17
+- p106_Persona
+- p107_Forma
+
+# Actividad 18
+- p110_CuentaBancariaV1
